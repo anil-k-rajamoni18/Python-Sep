@@ -1,8 +1,2 @@
-Hey Hi Welcome to Python Session Today Learning Variables
-Hey Hi Welcome to Python Session Today Learning Variables
-Hey Hi Welcome to Python Session Today Learning Variables
-Hey Hi Welcome to Python Session Today Learning Variables
-Addition of two number 30
-Hey Hi Welcome to Python Session Today Learning Variables
-Hey Hi Welcome to Python Session Today Learning Variables
-Addition of two number 30
+September 30 Python session
+Addition of 10 and 20 = 30
